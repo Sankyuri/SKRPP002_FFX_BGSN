@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*
+ *  Hide the newsfeed block div.
+ *  The class name "ADHj4e" is usable and unique name in Dec15 2023.
+ */
+div.ADHj4e {
+    display: none;
+}
+
+
+
